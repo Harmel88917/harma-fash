@@ -22,6 +22,9 @@ Route::get('products/{id}', function($id) {
     return Product::find($id);
 });
 
+Route::post('register','Auth\RegisterController@register');
+Route::post('login','Auth\loginController@login');
+Route::post('logout','Auth\RegisterController@logout');
 
 
 Route::middleware('auth:api')->get('/user', function (Request $request) {

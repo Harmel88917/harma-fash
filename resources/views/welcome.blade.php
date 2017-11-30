@@ -60,8 +60,8 @@
     <div class="thumbnail">
       <img src="images/sam.jpg" alt="...">
       <div class="caption">
-        <h3>Adidas Shoes</h3>
-        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. Vim sint omnes voluptua te, mei ex docendi deterruisset. Te usu officiis indoctum, sint noluisse disputationi ius eu. Mel ex omnis vitae adolescens, et verear fabulas per.</p>
+        <h3>White Adidas</h3>
+        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum.</p>
         <div class="clearfix">
           <div class="price pull-left">$35</div>
           <a href="{{ url ('/shop') }}" title = "Shop now" class="btn btn-success pull-right" role="button">Shop Now</a>
@@ -74,8 +74,8 @@
     <div class="thumbnail">
       <img src="images/messi.jpg" alt="...">
       <div class="caption">
-        <h3>Adidas Bag</h3>
-        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. Vim sint omnes voluptua te, mei ex docendi deterruisset. Te usu officiis indoctum, sint noluisse disputationi ius eu. Mel ex omnis vitae adolescens, et verear fabulas per.</p>
+        <h3>Black Adidas Bag</h3>
+        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum.</p>
         <div class="clearfix">
           <div class="price pull-left">$35</div>
           <a href="{{ url ('/shop') }}" title = "Shop now" class="btn btn-success pull-right" role="button">Shop Now</a>
@@ -88,8 +88,8 @@
     <div class="thumbnail">
       <img src="images/charles.jpg" alt="...">
       <div class="caption">
-        <h3>Adidas Shoes</h3>
-        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. Vim sint omnes voluptua te, mei ex docendi deterruisset. Te usu officiis indoctum, sint noluisse disputationi ius eu. Mel ex omnis vitae adolescens, et verear fabulas per.</p>
+        <h3>Black Adidas</h3>
+        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. </p>
         <div class="clearfix">
           <div class="price pull-left">$35</div>
           <a href="{{ url ('/shop') }}" title = "Shop now" class="btn btn-success pull-right" role="button">Shop Now</a>
@@ -123,8 +123,8 @@
     <div class="thumbnail">
       <img src="images/ngongo.jpg" alt="...">
       <div class="caption">
-        <h3>Nike Shoes</h3>
-        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. Vim sint omnes voluptua te, mei ex docendi deterruisset. Te usu officiis indoctum, sint noluisse disputationi ius eu. Mel ex omnis vitae adolescens, et verear fabulas per.</p>
+        <h3>Nike Boot</h3>
+        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. </p>
         <div class="clearfix">
           <div class="price pull-left">$35</div>
           <a href="{{ url ('/shop') }}" title = "Shop now" class="btn btn-success pull-right" role="button">Shop Now</a>
@@ -138,7 +138,7 @@
       <img src="images/tshabz.jpg" alt="...">
       <div class="caption">
         <h3>Nike Bag</h3>
-        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. Vim sint omnes voluptua te, mei ex docendi deterruisset. Te usu officiis indoctum, sint noluisse disputationi ius eu. Mel ex omnis vitae adolescens, et verear fabulas per.</p>
+        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. </p>
         <div class="clearfix">
           <div class="price pull-left">$35</div>
           <a href="{{ url ('/shop') }}" title = "Shop now" class="btn btn-success pull-right" role="button">Shop Now</a>
@@ -152,7 +152,7 @@
       <img src="images/baby.jpg" alt="...">
       <div class="caption">
         <h3>Nike Shoes</h3>
-        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. Vim sint omnes voluptua te, mei ex docendi deterruisset. Te usu officiis indoctum, sint noluisse disputationi ius eu. Mel ex omnis vitae adolescens, et verear fabulas per.</p>
+        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. </p>
         <div class="clearfix">
           <div class="price pull-left">$35</div>
           <a href="{{ url ('/shop') }}" title = "Shop now" class="btn btn-success pull-right" role="button">Shop Now</a>
@@ -187,7 +187,7 @@
       <img src="images/kappa2.jpg" alt="...">
       <div class="caption">
         <h3>Kappa Bag</h3>
-        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. Vim sint omnes voluptua te, mei ex docendi deterruisset. Te usu officiis indoctum, sint noluisse disputationi ius eu. Mel ex omnis vitae adolescens, et verear fabulas per.</p>
+        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. </p>
         <div class="clearfix">
           <div class="price pull-left">$35</div>
           <a href="{{ url ('/shop') }}" title = "Shop now" class="btn btn-success pull-right" role="button">Shop Now</a>
@@ -200,8 +200,8 @@
     <div class="thumbnail">
       <img src="images/david.jpg" alt="...">
       <div class="caption">
-        <h3>Kappa Shes</h3>
-        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. Vim sint omnes voluptua te, mei ex docendi deterruisset. Te usu officiis indoctum, sint noluisse disputationi ius eu. Mel ex omnis vitae adolescens, et verear fabulas per.</p>
+        <h3>Kappa Shoes</h3>
+        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. </p>
         <div class="clearfix">
           <div class="price pull-left">$35</div>
           <a href="{{ url ('/shop') }}" title = "Shop now" class="btn btn-success pull-right" role="button">Shop Now</a>
@@ -215,7 +215,7 @@
       <img src="images/harmel.jpg" alt="...">
       <div class="caption">
         <h3>Kappa Bag</h3>
-        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum. Vim sint omnes voluptua te, mei ex docendi deterruisset. Te usu officiis indoctum, sint noluisse disputationi ius eu. Mel ex omnis vitae adolescens, et verear fabulas per.</p>
+        <p class="description">Lorem ipsum dolor sit amet, mel diam aeque inimicus te, eros delectus oportere eos at. Putant ancillae consectetuer quo ad, ei sed esse harum.</p>
         <div class="clearfix">
           <div class="price pull-left">$35</div>
           <a href="{{ url ('/shop') }}" title = "Shop now" class="btn btn-success pull-right" role="button">Shop Now</a>

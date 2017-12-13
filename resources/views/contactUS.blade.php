@@ -7,10 +7,7 @@
 @section('content')
  
 	<div class="container">
-		
-		 
-		
-		 
+	
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
 				@if(Session::has('success'))
@@ -49,7 +46,7 @@
 
 		                    <div class="form-group col-lg-12 text-center">
 		                        <input type="hidden" name="save" value="contact">
-		                        <button type="submit" class="btn btn-success" role="button">SEND</button>
+		                        <button type="submit" class="btn btn-success" role="button">Send</button>
 		                    </div>
 		        	    </form>
 	        	    </div>

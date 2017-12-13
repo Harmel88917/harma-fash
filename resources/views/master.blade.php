@@ -35,9 +35,16 @@
             width: 100px;
         }
         footer {
-            background-color: #077713;
+            background-color:#F2F4F4;
             padding: 20px 0;
-            color:black;
+            font:normal 14px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
+            color:#0F1010;
+            margin-top: 20px;
+            border-top: thin solid #ddd;
+            
+        }
+        a{
+            color: #0F1010;
         }
         .table>tbody>tr>td {
             vertical-align: middle;
@@ -60,17 +67,16 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="{{ url('/') }}"><font face = "Comic sans MS" color = "#010101" size="6"><b><u>HarmA</font></u><font color="#077713" face = "Comic sans MS" size="6" >Fash</b></font></a>
+              <a class="navbar-brand" href="/"><font face = "Comic sans MS" color = "#010101" size="6"><b><u>HarmA</font></u><font color="#077713" face = "Comic sans MS" size="6" >Fash</b></font></a>
             </div>
-                <form action="" methode = "post" class="navbar-form navbar-left">
+            <div id="navbar" class="navbar-collapse collapse">
+                 <form action="" methode = "post" class="navbar-form navbar-left">
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="Search">
                     </div>
                     <button type="submit" class="btn btn-default">Submit</button>
                 </form>
-            <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav navbar-right">
-            <li><a href="{{ url('/') }}" title = "Go back to the home page"><font color="#077713">Home</font></a>
                 <li class="{{ set_active('wishlist') }}"><a href="{{ url('/wishlist') }}"><font color="#077713">Wishlist ({{ Cart::instance('wishlist')->count(false) }})</font></a></li>
                 <li class="{{ set_active('cart') }}"><a href="{{ url('/cart') }}"><font color="#077713">Cart ({{ Cart::instance('default')->count(false) }})</font></a></li>
               </ul>
@@ -82,7 +88,6 @@
 
     @yield('content')
 
-<hr/>
 <footer >
 <div id= "footer1">
     <div class= "container">
@@ -92,7 +97,7 @@
                     <br/><br/>
                     <a class="navbar-brand" href="{{ url('#') }}" title="You are on the Home page">
                     <font face = "Comic sans MS" color = "#010101" size="20"><i><u>HarmA</u></i></font>
-                    <font face = "Comic sans MS" color="white" size="20"><i>Fash</i></font></a>
+                    <font face = "Comic sans MS" color="#077713" size="20"><i>Fash</i></font></a>
                 </div>
                                                     
                 <div class="col-xs-6 col-md-3" >
@@ -147,7 +152,7 @@
 <!-- Footer of copyright-->
 <table bgcolor="black" width="100%" height="20px">
     <tr>
-        <td bgcolor="black">
+        <td bgcolor="#828383">
             <div class= "container"><br/>
                 <div class="col-md-4">
                     <font color="white"><p>Copyright &copy; HarmaFash-Alright Reserved</p></font>
@@ -155,7 +160,7 @@
                 <div class="col-md-4">
                 </div>
                 <div class="col-md-4">
-                    <p><span><font color="white">Design by<a href="https://www.gmail.com" target="_blank"> harmelngongo@gmail.com</a></font></span>
+                    <p><span><font color="white">Design by<a href="https://www.gmail.com" target="_blank" style="color: white;"> harmelngongo@gmail.com</a></span>
                     <font size = "2" class= "pull-right" color="white"> +254 717 716 291</font></p>
                 </div>
             </div>

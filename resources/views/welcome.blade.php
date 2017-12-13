@@ -226,14 +226,21 @@
   </div>
   <!--Second column of the product ends here-->
   <div class="brands">
-    <h3>Brands</h3>
-      <div class="logos"> <a href="#"><img src="images/logo1.gif" alt="" /></a> 
-          <a href="#"><img src="images/logo2.gif" alt="" /></a> 
-          <a href="#"><img src="images/logo3.gif" alt="" /></a> 
-         <a href="#"><img src="images/logo4.gif" alt="" /></a> 
-         <a href="#"><img src="images/logo5.gif" alt="" /></a> 
+      <div class="logos"> 
+          <div class="col-xs-4 col-md-3" >
+              <a href="#"><img src="images/logo1.gif" alt="" /></a> 
+          </div>
+          <div class="col-xs-4 col-md-3" >
+              <a href="#"><img src="images/logo2.gif" alt="" /></a> 
+           </div>
+           <div class="col-xs-4 col-md-3" >
+              <a href="#"><img src="images/logo3.gif" alt="" /></a>
+            </div>
+            <div class="col-xs-4 col-md-3" > 
+              <a href="#"><img src="images/logo5.gif" alt="" /></a> 
+            </div>
       </div>
-    </div>
+    </div
   </div>
  
 @endsection

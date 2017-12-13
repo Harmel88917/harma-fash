@@ -33,3 +33,7 @@ Route::post('switchToCart/{id}', 'WishlistController@switchToCart');
 //routes for contact functionality
 Route::get('contact-us', 'ContactUSController@contactUS');
 Route::post('contact-us', 'ContactUSController@contactUSPost');
+
+//checkout functionality
+Route::get('checkout', 'CheckoutController@checkout');
+Route::post('checkout', 'CheckoutController@checkoutPost');

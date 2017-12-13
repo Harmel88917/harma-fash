@@ -5,7 +5,12 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading">Login</div>
+                <div class="panel-heading">
+                    <lu>
+                        Please Login Or
+                        <a href="{{ route('register') }}" title = "Don't have an account, register"><font color="#077713">Register</font></a>
+                    </lu>
+                </div>
 
                 <div class="panel-body">
                     <form class="form-horizontal" method="POST" action="{{ route('login') }}">
